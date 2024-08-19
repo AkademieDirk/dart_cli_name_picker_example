@@ -1,5 +1,7 @@
 import 'package:dart_cli_name_picker_example/utils/example_names.dart';
 import 'package:dart_cli_name_picker_example/utils/helper_functions.dart';
+import 'lib.dart';
+import '../lib/utils/example_names.dart';
 
 List<String> unchosenParticipants = [];
 List<String> alreadyPickedParticipants = [];
