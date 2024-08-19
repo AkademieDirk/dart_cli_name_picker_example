@@ -5,3 +5,5 @@ void main() {
     test('notest', () {});
   });
 }
+
+void group(String s, Null Function() param1) {}
